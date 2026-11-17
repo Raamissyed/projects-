@@ -1,0 +1,16 @@
+# Generated Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Private internship applications / exports
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+applications*.csv
+
+# Local editor and OS files
+.DS_Store
+.vscode/
